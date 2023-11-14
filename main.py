@@ -143,6 +143,7 @@ def process_task(stopping, test_only=False):
     context = configs.Process()
     devign = configs.Devign()
     model_path = PATHS.model + FILES.model
+
     model = process.Devign(
         path=model_path,
         device=DEVICE,
@@ -215,4 +216,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # main()
+    print(DEVICE)

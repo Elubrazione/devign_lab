@@ -9,7 +9,7 @@
                 "num_layers": 6,
                 "aggr": "add",
                 "bias": true
-            },            
+            },
             "emb_size": 101
         }
     },
@@ -54,7 +54,7 @@
         "edge_type": "Ast"
     },
     "process": {
-        "use_gpu": true,
+        "use_gpu": false,
         "epochs": 200,
         "patience": 10,
         "delta": 0,
