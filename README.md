@@ -1,7 +1,14 @@
+# Devign
+> 以下内容为阅读论文所做记录和实验过程记录，非最终实验报告内容，实验报告最终版本见[PDF文件](./实验报告.pdf).
+>
+> 部分CS224W课程学习笔记：
+> - [Traditional Methods for Machine Learning on Graph](https://elubrazione.github.io/2023/11/07/traditional-feature-based-methods/)
+> - [Node Embeddings](https://elubrazione.github.io/2023/11/09/node-embedding/)
+> - [Message Passing and Node Classification](https://elubrazione.github.io/2023/11/10/message-passing-and-node-classification/)
+> - [Graph Neural Network](https://elubrazione.github.io/2023/11/11/graph-neural-network/)
+
+
 本篇论文的方向是安全邻域的代码漏洞识别问题。
-
-<!-- more -->
-
 ## 背景
 
 最近的研究聚焦了深度神经网络在更自动化的漏洞识别方式上的应用，但现有的方法在学习综合程序语义以表征高多样性、脆弱性以及真实世界的代码的复杂性方面都有很大的局限。可以将现有方法的缺点总结为以下三点：
