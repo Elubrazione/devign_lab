@@ -6,7 +6,7 @@
 > - [Node Embeddings](https://elubrazione.github.io/2023/11/09/cs224w-node-embedding/)
 > - [Message Passing and Node Classification](https://elubrazione.github.io/2023/11/10/cs224w-message-passing-and-node-classification/)
 > - [Graph Neural Network](https://elubrazione.github.io/2023/11/11/cs224w-graph-neural-network/)
-> - [Heterogeneous Graphs](https://elubrazione.github.io/2023/11/17/cs224w-heterogeneous-graphs/)
+> - [Heterogeneous Graphs](https://elubrazione.github.io/2023/11/27/cs224w-heterogeneous-graphs/)
 
 
 本篇论文的方向是安全邻域的代码漏洞识别问题。
