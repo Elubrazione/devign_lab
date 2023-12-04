@@ -2,10 +2,11 @@
 > 以下内容为阅读论文所做记录和实验过程记录，非最终实验报告内容，实验报告最终版本见[PDF文件](./实验报告.pdf).
 >
 > 部分CS224W课程学习笔记：
-> - [Traditional Methods for Machine Learning on Graph](https://elubrazione.github.io/2023/11/07/traditional-feature-based-methods/)
-> - [Node Embeddings](https://elubrazione.github.io/2023/11/09/node-embedding/)
-> - [Message Passing and Node Classification](https://elubrazione.github.io/2023/11/10/message-passing-and-node-classification/)
-> - [Graph Neural Network](https://elubrazione.github.io/2023/11/11/graph-neural-network/)
+> - [Traditional Methods for Machine Learning on Graph](https://elubrazione.github.io/2023/11/07/cs224w-traditional-feature-based-methods/)
+> - [Node Embeddings](https://elubrazione.github.io/2023/11/09/cs224w-node-embedding/)
+> - [Message Passing and Node Classification](https://elubrazione.github.io/2023/11/10/cs224w-message-passing-and-node-classification/)
+> - [Graph Neural Network](https://elubrazione.github.io/2023/11/11/cs224w-graph-neural-network/)
+> - [Heterogeneous Graphs](https://elubrazione.github.io/2023/11/17/cs224w-heterogeneous-graphs/)
 
 
 本篇论文的方向是安全邻域的代码漏洞识别问题。
